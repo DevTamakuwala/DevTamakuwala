@@ -1,84 +1,36 @@
-# 👋 Hi, I'm Dev Tamakuwala!
+<h1 align="center">🚀 Dev Tamakuwala — Fueling Code. Igniting Innovation.</h1>
 
-### 💻 Flutter Developer | 🌐 Full-Stack Learner | ☁️ Firebase Enthusiast | 🛡️ Security Explorer
-
----
-
-## 🧠 About Me
-
-- 🎓 MCA (Science) student at MIT World Peace University, Pune
-- 🧑‍💻 BCA Graduate with CGPA 8.36 from C.B. Patel Computer College, Surat
-- 🔍 Passionate about building secure, smart, and scalable apps
-- 🚀 Eager to work with Android, Firebase, PHP, Spring Boot & MongoDB
-- 🛡️ Exploring **cloud security**, Azure Defender, and threat response
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00F7FF&size=22&center=true&vCenter=true&lines=Full-Stack+Developer;Flutter+%2B+Firebase+Fanatic;Java+%7C+Spring+Boot+Explorer;Cloud+Security+Learner;MCA+Student+%40+MIT-WPU" />
+</p>
 
 ---
 
-## 🚧 Projects
+### 🧑‍💻 About Me
 
-### 📱 Programmer Prodigies
-A student-focused Flutter app with Firebase Realtime DB  
-📍 [Google Play](https://play.google.com/store/apps/details?id=io.github.programmerprodigies.programmer_prodigies)  
-🔒 Features:
-- Notes & important student materials
-- Restricts screenshot, screen recording, and offline PDF downloads
+```bash
+💡 Name        : Dev Tamakuwala
+🎓 Education   : MCA @ MIT-WPU | BCA (8.36 CGPA)
+📍 Location    : Surat, Gujarat, India
+📫 Email       : dev.official2424@gmail.com
+🌐 LinkedIn    : dev-tamakuwala-b09339219
+🛠️ Code Style : Clean, Scalable, Secured
+⚙️ Tech Stack
+🧠 Languages, Frameworks & Tools I Use
 
----
-
-### 💼 Business Sehyogi  
-Platform for startup owners to find **co-founders** or **investors**  
-🛠️ Stack: React JS, Spring Boot APIs
-
----
-
-### 🏥 Arogya Sair  
-Appointment & package booking app for hospitals  
-🛠️ Stack: Flutter, Core PHP, Firebase  
-✅ Admin panel, Doctor scheduling, User queries & packages
-
----
-
-### 🍽️ Brunch  
-Android ordering app for restaurants  
-🛠️ Stack: Kotlin, SQLite  
-👨‍🍳 Admin and Attender dashboards with dynamic menu management
-
----
-
-### 🛒 Clothing Selling Website  
-🛠️ Stack: Core PHP, MySQL  
-🧥 Users can buy clothes; Admin can manage inventory and orders
-
----
-
-## 🧰 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevTamakuwala&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevTamakuwala&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/dev-tamakuwala-b09339219)
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:dev.official2424@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/DevTamakuwala)
-
----
-
-> “Code like it's your last day on Earth. Deploy like everyone’s watching.” 🚀
+<div align="center"> <img src="https://skillicons.dev/icons?i=java,kotlin,spring,flutter,dart,php,html,css,ts,js,react,mysql,firebase,mongodb" /> </div>
+📱 Projects I’ve Built
+🚀 Project Name	🧰 Tech Stack	📌 Description
+Programmer Prodigies	Flutter, Firebase	Student material app with restrictions on screenshots, downloads, and screen recording
+Business Sehyogi	React JS, Spring Boot	Matchmaking platform for co-founders and investors
+Arogya Sair	Flutter, PHP, Firebase	Smart hospital app for appointments, packages & admin workflow
+Brunch App	Kotlin, SQLite	Restaurant menu, order & user management
+Clothing Store	PHP, MySQL	Online store with admin inventory control
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=DevTamakuwala&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7" /> </p>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DevTamakuwala&show_icons=true&theme=tokyonight&count_private=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevTamakuwala&layout=compact&theme=tokyonight" /> </div>
+🌐 Connect With Me
+<p align="center"> <a href="mailto:dev.official2424@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dev-tamakuwala-b09339219"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/DevTamakuwala"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+🧠 "Dream. Design. Develop. Deliver."
+🔥 On a mission to build smarter digital solutions with human impact.
