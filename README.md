@@ -58,25 +58,29 @@
 
 ### 🤝 Let’s Connect
 
-<p a<p align="center">
-  <a href="mailto:dev.official2424@gmail.com">
-    <img src="assets/icons/email.svg" alt="Email" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:dev.official2424@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/dev-tamakuwala-b09339219">
-    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/dev-tamakuwala-b09339219" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/DevTamakuwala">
-    <img src="assets/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  &nbsp;
+  <a href="https://github.com/DevTamakuwala" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-<!--   &nbsp;
+  &nbsp;
+  <a href="https://wa.me/919016204659" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
   <a href="https://devtamakuwala.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a> -->
+  </a>
 </p>
 
 ---
 
 > 🧠 _"On a mission to code with clarity and design with purpose."_  
 > 💡 _Always exploring. Always building._
-
