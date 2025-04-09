@@ -59,21 +59,17 @@
 ### 🤝 Let’s Connect
 
 <p align="center">
-  <a href="mailto:dev.official2424@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <p align="center">
+  <a href="mailto:dev.official2424@gmail.com">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/email.svg" alt="Email" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/dev-tamakuwala-b09339219" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/dev-tamakuwala-b09339219">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/DevTamakuwala" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/DevTamakuwala">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
-  &nbsp;
-  <a href="https://wa.me/919016204659" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+</p>
 <!--   &nbsp;
   <a href="https://devtamakuwala.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
