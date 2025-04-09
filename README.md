@@ -58,16 +58,15 @@
 
 ### 🤝 Let’s Connect
 
-<p align="center">
-  <p align="center">
+<p a<p align="center">
   <a href="mailto:dev.official2424@gmail.com">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/email.svg" alt="Email" width="40" height="40"/>
+    <img src="assets/icons/email.svg" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/dev-tamakuwala-b09339219">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/DevTamakuwala">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/icons/github.svg" alt="GitHub" width="40" height="40"/>
+    <img src="assets/icons/github.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 <!--   &nbsp;
