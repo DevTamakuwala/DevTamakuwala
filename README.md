@@ -32,7 +32,7 @@
 | 🚀 Project Name         | 🧰 Tech Stack            | 📌 Description                                                                 |
 |------------------------|--------------------------|--------------------------------------------------------------------------------|
 | **Programmer Prodigies** | Flutter, Firebase        | Student material app with restrictions on screenshots, downloads, and screen recording |
-| **Business Sehyogi**     | React JS, Spring Boot    | Matchmaking platform for co-founders and investors                            |
+| **Business Sehyogi**     | React JS, Spring Boot, Flutter    | Matchmaking platform for co-founders and investors                            |
 | **Arogya Sair**          | Flutter, PHP, Firebase   | Smart hospital app for appointments, packages & admin workflow               |
 | **Brunch App**           | Kotlin, SQLite           | Restaurant menu, order & user management                                      |
 | **Clothing Store**       | PHP, MySQL               | Online store with admin inventory control                                     |
