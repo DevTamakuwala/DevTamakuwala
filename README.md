@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 💡 **Name**: Dev Tamakuwala  
-- 🎓 **Education**: MCA @ MIT-WPU | BCA (8.36 CGPA)  
+- 🎓 **Education**: MCA (8.52 CGPA) @ MIT-WPU | BCA (8.36 CGPA)  
 - 📍 **Location**: Surat, Gujarat, India  
 - 📫 **Email**: [dev.official2424@gmail.com](mailto:dev.official2424@gmail.com)  
 - 🌐 **LinkedIn**: [dev-tamakuwala](https://www.linkedin.com/in/dev-tamakuwala-b09339219)  
