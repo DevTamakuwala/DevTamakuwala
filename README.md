@@ -12,7 +12,7 @@
 - 🎓 **Education**: MCA @ MIT-WPU | BCA (8.36 CGPA)  
 - 📍 **Location**: Surat, Gujarat, India  
 - 📫 **Email**: [dev.official2424@gmail.com](mailto:dev.official2424@gmail.com)  
-- 🌐 **LinkedIn**: [dev-tamakuwala-b09339219](https://www.linkedin.com/in/dev-tamakuwala-b09339219)  
+- 🌐 **LinkedIn**: [dev-tamakuwala](https://www.linkedin.com/in/dev-tamakuwala-b09339219)  
 - 🛠️ **Code Style**: Clean, Scalable, Secured  
 - 💬 **Philosophy**: _"Dream. Design. Develop. Deliver."_  
 - 🔥 **Mission**: Building smarter digital solutions with human impact
