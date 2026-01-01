@@ -22,7 +22,7 @@
 ### ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,,react,mysql,firebase,mongodb,postgresql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,flutter,dart,react,mysql,firebase,mongodb,postgresql" />
 </div>
 
 ---
