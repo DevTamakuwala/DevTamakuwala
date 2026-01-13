@@ -45,6 +45,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=DevTamakuwala&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7" />
 </p> -->
 
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -55,6 +56,7 @@
 </div>
 
 ---
+-->
 
 ### 🤝 Let’s Connect
 
