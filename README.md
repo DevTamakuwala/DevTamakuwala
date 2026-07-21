@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 💡 **Name**: Dev Tamakuwala  
-- 🎓 **Education**: MCA (8.52 CGPA) @ MIT-WPU | BCA (8.36 CGPA)  
+- 🎓 **Education**: MCA (8.74 CGPA) @ MIT-WPU | BCA (8.36 CGPA)  
 - 📍 **Location**: Surat, Gujarat, India  
 - 📫 **Email**: [dev.official2424@gmail.com](mailto:dev.official2424@gmail.com)  
 - 🌐 **LinkedIn**: [dev-tamakuwala](https://www.linkedin.com/in/dev-tamakuwala-b09339219)  
@@ -31,7 +31,6 @@
 
 | 🚀 Project Name         | 🧰 Tech Stack            | 📌 Description                                                                 |
 |------------------------|--------------------------|--------------------------------------------------------------------------------|
-| **Programmer Prodigies** | Flutter, Firebase        | Student material app with restrictions on screenshots, downloads, and screen recording |
 | **Business Sehyogi**     | React JS, Spring Boot, Flutter    | Matchmaking platform for co-founders and investors                            |
 | **Arogya Sair**          | Flutter, PHP, Firebase   | Smart hospital app for appointments, packages & admin workflow               |
 | **Brunch App**           | Kotlin, SQLite           | Restaurant menu, order & user management                                      |
